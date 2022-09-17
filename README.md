@@ -1,1 +1,1 @@
-# spell-checker
+Implements a spell checker using a hash table that references a dictionary file to check for misspelled words in an input file and suggest corrections. Applies spell checking techniques to each misspelled word such as adding and removing a character one at a time from every position in each word, and swapping every pair of adjacent characters in each word until a correctly spelled word is formed.
